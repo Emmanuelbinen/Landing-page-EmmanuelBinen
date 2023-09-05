@@ -1,0 +1,13 @@
+1. White Navigation bar with black text (controlliing mouse style is very important in our page)
+Navigation bar must be a list because, it is list of links.
+>>https://www.w3schools.com/bootstrap5/bootstrap_navbar.php
+
+We include alt attribute in our image logo in order to provide additional information when the user cannot view it due to bad netword for example.
+
+removing bullets from our website:
+https://www.w3schools.com/howto/howto_css_list_without_bullets.asp
+
+
+5.Above the footer
+6. Footer
+
